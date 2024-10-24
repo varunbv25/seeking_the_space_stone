@@ -1,5 +1,6 @@
 # Space Stone on Click
 
+Baased on the space stone and tesseract in the marvel cinematic universe.
 This project is a 3D OpenGL simulation using Pygame and PyOpenGL, where the user interacts with a rotating cube that breaks into pieces upon interaction, eventually revealing an "oval stone" with a glow effect. 
 The project includes texture loading, rendering, and basic 3D transformations.
 
